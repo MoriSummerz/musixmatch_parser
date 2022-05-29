@@ -1,6 +1,11 @@
 # Musixmatch parser
 Musixmatch songs and lyrics parser via beautifulsoup4
 
+## Requirements:
+```
+pip install beautifulsoup4
+```
+
 ## Usage: 
 ### `search(text)`
 Search songs. 
